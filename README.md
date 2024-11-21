@@ -1,4 +1,4 @@
-# AMEAN Lectures
+## AMEAN Lectures
 This repository contains the software lectures.
 
 ---
